@@ -1,0 +1,9 @@
+// const LogLinePlugin = require('./src/LogLinePlugin/main.js');
+{
+  "plugins": [ ["./src/LogLinePlugin/index3.js", {
+		
+	}]],
+	"parserOpts": {
+    "plugins": ["jsx"]
+	}
+}
